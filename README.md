@@ -19,11 +19,8 @@ This project is written using **NASM (Netwide Assembler)**. This means I am inte
 - [x] **Milestone 2:** Direct Pixel Manipulation (VGA Mode 13h)
 - [x] **Milestone 3:** Real-time Keyboard Polling & Movement
 - [x] **Milestone 4:** Gravity System & Boundary Collision
-- [ ] **Milestone 5:** Tetromino Definitions & Shape Rendering
-- [ ] **Milestone 6:** Rotation Logic & Collision Detection
-- [ ] **Milestone 7:** Line Clearing & Scoring System
 
-## 🕹️ How to Run
+## How to Run
 To run this project, you will need `NASM` and `DOSBox`.
 
 1. **Assemble the code:**
